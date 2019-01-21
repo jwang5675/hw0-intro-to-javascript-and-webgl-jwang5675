@@ -1,3 +1,5 @@
+Demo At: https://jwang5675.github.io/hw0-intro-to-javascript-and-webgl-jwang5675/
+
 # CIS 566 Homework 0: Intro to Javascript and WebGL
 
 ## Objective
